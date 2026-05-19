@@ -78,6 +78,7 @@ Customers were grouped into different segments such as:
 - High-Value Customers
 - Regular Customers
 - Inactive Customers
+<img width="524" height="183" alt="image" src="https://github.com/user-attachments/assets/913095fd-4903-4164-8eed-a1cdc4b6d89a" />
 
 ---
 
